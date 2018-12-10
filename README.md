@@ -1,6 +1,6 @@
 # "Shady Meadows Booking Management" Test Suite
 
-Initial test suite for testing the "Shady Meadows Booking Management" API.
+Initial test suite for testing the "Shady Meadows Booking Management" API found at https://automationintesting.online
 
 ## Getting Started
 
